@@ -8,3 +8,9 @@ Test cases for registration process for the application https://passport.alibaba
 Test cases for registration process for the application https://www.idp.com/bangladesh/user-signup/
 
 ![IDP Registration](https://user-images.githubusercontent.com/64628178/203467538-d4d5d942-874e-4b2b-89cd-4b3fbfa199d3.JPG)
+
+## Test Plan Mind Map
+![Software Test Plan](https://user-images.githubusercontent.com/64628178/203468097-e7f63c3c-0a50-4530-8f25-83e7b0f65a1f.png)
+
+## Bug Report Mind Map
+![Bug Report](https://user-images.githubusercontent.com/64628178/203468145-9e9f2cba-b368-4d60-9510-56dc2a25d364.png)
